@@ -10,7 +10,7 @@ El proyecto contiene los siguientes archivos y directorios:
 
 - `Sistema_Recomendación.ipynb`: Un notebook de Jupyter que contiene el desarrollo completo del sistema de recomendación
 - `sistema_recomendación.py`: Un archivo de Python que contiene el mismo código y lógica que el notebook.
-- `data/`:
+- `Data/`:
   - `ratings.csv`: Calificaciones dadas por los usuarios a las películas.
   - `movies.csv`: Información sobre las películas, como título y género.
 - `requirements.txt`
