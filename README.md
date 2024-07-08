@@ -13,7 +13,7 @@ El proyecto contiene los siguientes archivos y directorios:
 - `Data/`:
   - `ratings.csv`: Calificaciones dadas por los usuarios a las películas.
   - `movies.csv`: Información sobre las películas, como título y género.
-  Ambos documentos han sido extraídos de datos disponibles en la web de MovieLens ((https://movielens.org))
+  Ambos documentos han sido extraídos de datos disponibles en la web de MovieLens (https://movielens.org).
 - `requirements.txt`
 
 Puedes instalar todas las dependencias necesarias ejecutando:
