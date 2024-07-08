@@ -16,5 +16,5 @@ El proyecto contiene los siguientes archivos y directorios:
 - `requirements.txt`
 
 Puedes instalar todas las dependencias necesarias ejecutando:
-
+```bash
 pip install -r requirements.txt
